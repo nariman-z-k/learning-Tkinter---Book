@@ -17,5 +17,6 @@
 ###  لینک خرید کتاب
 ------------
 [https://dibagarantehran.com/route/product/python-gui-programming-with-tkinter-framework/](https://dibagarantehran.com/route/product/python-gui-programming-with-tkinter-framework/)
-[https://fidibo.com/book/134722-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A7%D8%B3%D8%B7-%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9%DB%8C-gui-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D8%A7-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-tkinter?utm_source=digikala&utm_medium=integration_btn&utm_campaign=book&inbrowser=1](https://fidibo.com/book/134722-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A7%D8%B3%D8%B7-%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9%DB%8C-gui-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D8%A7-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-tkinter?utm_source=digikala&utm_medium=integration_btn&utm_campaign=book&inbrowser=1)
+
+[https://fidibo.com/book/134722](https://fidibo.com/book/134722-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A7%D8%B3%D8%B7-%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9%DB%8C-gui-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D8%A7-%D9%81%D8%B1%DB%8C%D9%85-%D9%88%D8%B1%DA%A9-tkinter?utm_source=digikala&utm_medium=integration_btn&utm_campaign=book&inbrowser=1)
 
